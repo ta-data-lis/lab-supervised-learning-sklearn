@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this lab, we will begin to explore the scikit-learn library in the context of supervised learning.
+ In this lab, we will begin to explore the scikit-learn library in the context of supervised learning.
 
 ## Getting Started
 
